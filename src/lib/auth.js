@@ -2,7 +2,7 @@ import { betterAuth } from "better-auth";
 import { MongoClient } from "mongodb";
 import { mongodbAdapter } from "better-auth/adapters/mongodb";
 
-const client = new MongoClient('mongodb+srv://next-pixen:MoqQoRTJe297mT3Q@cluster0.peiv3ql.mongodb.net/?appName=Cluster0');
+const client = new MongoClient(process.env.MONGO_URI);
 const db = client.db('next-pixen');
 
 export const auth = betterAuth({
