@@ -1,6 +1,6 @@
 import React from 'react';
 import PhotoCard from './PhotoCard';
-import { getAllData } from '@/lilb/data';
+import { getAllData } from '@/lib/data';
 
 
 
