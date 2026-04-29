@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Realistic Portrait AI",
-        "imageUrl": "https://i.pinimg.com/1200x/04/6a/ef/046aef3824fc35cd1ad0bff0f253619a.jpg",
+        "imageUrl": "https://i.pinimg.com/736x/46/df/04/46df04133022c354e1be4dda05829b55.jpg",
         "prompt": "Ultra realistic portrait of a young woman, soft light, 85mm lens, depth of field",
         "category": "Realistic",
         "model": "SDXL",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "title": "Minimal AI Art",
-        "imageUrl": "https://i.pinimg.com/736x/4a/d5/a0/4ad5a0873306c143e64fe2837adfcf42.jpg",
+        "imageUrl": "https://i.pinimg.com/1200x/59/9c/70/599c7056b7ccdcc5501fb462257b4c4e.jpg",
         "prompt": "Minimal abstract shapes, pastel colors, modern design, clean composition",
         "category": "Minimal",
         "model": "Stable Diffusion",
